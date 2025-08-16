@@ -693,3 +693,7 @@ animation-delay: 0s !important; /* Make first item appear immediately */
       color: var(--accent);
       font-weight: 700;
     }
+:root{
+   --accent: #449183;
+    --primary: #17473E;
+}
